@@ -8,3 +8,4 @@ or
 ```js
 $.cookie("googtrans", "/en/fr");
 ```
+Access the demo here https://host-theta.vercel.app/
